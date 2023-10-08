@@ -20,4 +20,7 @@ cd..
 npm start
 ```
 
+```
 ### click press key y
+```
+
